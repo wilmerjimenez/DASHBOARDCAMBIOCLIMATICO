@@ -7,8 +7,8 @@ import folium
 from streamlit_folium import st_folium
 
 # Configuracion
-st.set_page_config(page_title="Dashboard Proyectos Ecuador", layout="wide")
-st.title("📊 Dashboard de Proyectos - Ecuador")
+st.set_page_config(page_title="Gestión de Cambio Climático Ecuador MAG-SRIA-DRAA", layout="wide")
+st.title("📊 Gestión de Cambio Climático Ecuador MAG-SRIA-DRAA")
 
 # Cargar datos
 @st.cache_data
